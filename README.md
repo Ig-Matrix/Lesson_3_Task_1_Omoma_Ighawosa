@@ -1,6 +1,6 @@
 ##CSS Task 1 | Blog
 
-##Link to live site:
+##Link to live site:https://ig-matrix.github.io/Lesson_3_Task_1_Omoma_Ighawosa/
 
 ##How to run/test this project
 
